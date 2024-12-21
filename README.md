@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script that demonstrates a common error: using puts instead of return in a procedure.  The script highlights the issue where the procedure intends to return a calculated value, but the puts command interferes with the expected return behavior. The solution shows the corrected procedure.
