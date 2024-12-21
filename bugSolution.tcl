@@ -1,0 +1,1 @@
+proc correct_proc {a b} { return [expr {$a - $b}] } puts [correct_proc 10 5]
